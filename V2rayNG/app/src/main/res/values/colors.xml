@@ -10,4 +10,7 @@
 
     <color name="colorPrimary">#F5F5F5</color>
     <color name="colorAccent">#000000</color>
+
+    <color name="error_color_material_dark">#437043</color><!-- deep orange 400 -->
+    <color name="error_color_material_light">#225722</color><!-- deep orange 500 -->
 </resources>
